@@ -1,6 +1,6 @@
-<h1 align="center">
+<h5 align="center">
   Fault Detection for Predictive Maintenanc
-</h1>
+</h5>
 
 # Algorithms used
 
